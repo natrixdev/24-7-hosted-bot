@@ -1,7 +1,7 @@
 const Math = require("math");
 const config = require("./config.json")
 const Eris = require("eris");
-const bot = new Eris.Client("OTIxNjgxMDcxMzE2Mjk5Nzk2.Yb2cYw.IcbzeuBwyWlVcN4ewKcl8DqJusQ", {
+const bot = new Eris.Client(process.env.TOKEN, {
   intents: ["guilds", "guildMessages", "guildBans"],
 });
 
