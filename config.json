@@ -1,0 +1,13 @@
+{
+    "officialServer": "485758461393502211",
+    "prefix": "+",
+    "outputChannelId": "918580036888567890",
+    "guildUpdateChannelId": "918580036888567890",
+    "maxSongDuration": 660,
+    "maxOwnerSongDuration": 3840,
+    "shardCount":  3,
+    "maxBitRate": "161",
+    "ownerId": "398116585753280534",
+    "unitDisplay": "metric",
+    "memberLogChannel": "918580036888567890"
+}
